@@ -8,6 +8,4 @@ If you found it, you automatically go to the next level.
 
 You WIN the game, when you pass all the levels.
 
-Play the game directly from here:
-[<img alt = "Play Button" src = "https://user-images.githubcontent.com/85368212/167706022-5128fd5d-d315-4eb9-9001-3bf9008cd91e.png" />]
-(https://replit.com/@mustanska/GuessANumber#main.py)
+Play the game directly from here: https://replit.com/@mustanska/GuessANumber#main.py
