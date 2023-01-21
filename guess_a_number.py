@@ -22,7 +22,6 @@ for level in range(1, 6):
 
         if not player.isdigit():
             print(Fore.RED + "Invalid input. Try again.")
-            attempts -= 1
             continue
 
         player_number = int(player)
