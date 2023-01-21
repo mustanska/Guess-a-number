@@ -8,4 +8,4 @@ If you found it, you automatically go to the next level.
 
 You WIN the game, when you pass all the levels.
 
-Play the game directly from here: <button onclick = "window.location.href='https://replit.com/@mustanska/GuessANumber';"> GUESS A NUMBER </button>
+Play the game directly from here: <a href='https://replit.com/@mustanska/GuessANumber'> GUESS A NUMBER </a>
