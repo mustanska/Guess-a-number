@@ -11,4 +11,5 @@ You WIN the game, when you pass all the levels.
 Play the game directly from here: <a href='https://replit.com/@mustanska/GuessANumber'> GUESS A NUMBER </a>
 
 It looks like that:
+
 ![Guess_A_Number](https://user-images.githubusercontent.com/122823838/213889275-560d8d89-00d7-4285-a1ea-137ae3f124d7.jpg)
